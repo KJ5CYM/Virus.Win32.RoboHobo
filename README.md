@@ -1,7 +1,7 @@
 # Virus.Win32.r0b0h0b0
 
 Now here is a reverse engineering challenge for you!
-This virus was cobbled together from publicly available code on github. I actually did very little engineering to create this. The graphical effect was more work than the virus itself. Cool thing about it is that it is a virus in the truest sense of the word. It's not a trojan or one of those dumb jokes that people call "viruses" these days. It is non destructive unless you allow it to infect a critical system executable. The infection payload consists of a silly message and the virus itself. See if you can learn something from it!
+This virus was cobbled together from publicly available code on github. I actually did very little engineering to create this. The graphical effect was more work than the virus itself. A virus in the truest sense of the word, it's not a trojan or one of those dumb jokes that people call "viruses" these days. It is non destructive unless you allow it to infect a critical system executable. The infection payload consists of a silly message and the virus itself. See if you can learn something from it!
 
 ```
 ; ==========================================================================================;
