@@ -17,3 +17,4 @@ This virus was cobbled together from publicly available code on github. I actual
 ;                Will not work while being debugged.                                        ;
 ; ==========================================================================================;
 ```
+![virustotal](https://github.com/elr0b0h0b0/Virus.Win32.r0b0h0b0/blob/main/r0b0h0b0_VirusTotal.png "virustotal")
