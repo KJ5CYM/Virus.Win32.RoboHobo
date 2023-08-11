@@ -2,7 +2,7 @@
 
 Now here is a reverse engineering challenge for you!
 
-Meet my stealthy virus. His name is RoboHobo. I named him after myself! This is just a proof of concept project. 
+Meet my stealthy virus. His name is RoboHobo. I named him after myself!
 
 This virus was created on Windows XP, but it works on Windows 7 and Windows 10, however it will be deleted by Windows Defender.
 
