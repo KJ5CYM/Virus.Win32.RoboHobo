@@ -23,7 +23,6 @@ Running the batch file will overwrite the infected executables in the test folde
 ;         TEST : Windows XP (Avast Antivirus, it was undetected)                            ; 
 ;  DESCRIPTION : Overwriting virus for PE32 exe files in current directory.                 ;
 ;                Based off Stoned and Joshua viruses, and some shellcode injectors.         ;
-;                Will not work while being debugged, thanks to 0xfeel5bad.                  ;
 ; ==========================================================================================;
 ```
 ![virustotal](https://github.com/elr0b0h0b0/Virus.Win32.r0b0h0b0/blob/main/r0b0h0b0_VirusTotal.png "virustotal")
