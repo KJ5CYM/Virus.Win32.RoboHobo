@@ -27,6 +27,6 @@ Running the batch file will overwrite the infected executables in the test folde
 ```
 ![virustotal](https://github.com/elr0b0h0b0/Virus.Win32.r0b0h0b0/blob/main/r0b0h0b0_VirusTotal.png "virustotal")
 
-Interstingly, Windows Defender on Windows 10 thinks it is a trojan called "Wacatac," which it is not. It's just a virus, and it has no networking capabilities. If you want to play with it on Windows 10/11, you'll have to go to Windows Defender and "Allow Threat." When you're done, you can re-enable Windows Defender.
+Interstingly, Windows Defender on Windows 10 thinks it is a trojan called "Wacatac," which it is not. It's just a virus, and it has no networking capabilities. If you want to play with it on Windows 10/11, you'll have to go to Windows Defender and "Allow Threat." When you're done, you should re-enable Windows Defender.
 
 ![windefend](https://github.com/elr0b0h0b0/Virus.Win32.r0b0h0b0/blob/main/false_identify.png "windefend")
