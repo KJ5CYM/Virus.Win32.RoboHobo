@@ -1,4 +1,4 @@
-# Virus.Win32.RoboHobo
+# Virus.Win32.RoboHobo v5.6
 
 Now here is a reverse engineering challenge for you!
 
