@@ -59,13 +59,9 @@ STAR ends
 					DB "  -----------------------   ",0AAH
 					DB "                            ",0
  	scroller		DB "                                     "
- 					DB " -------- SHOUT OUT TO ASSEMBLY AND VIRUS CODERS EVERYWHERE!"
- 					DB " -------- USE THE VIRUS WISELY -------- "
- 					DB "BATCH FILE WILL INFECT ENTIRE HARD DRIVE --------"
-                              DB " GREETZ TO MY BOIS 0CTOTHORPE AND DR0PTPACKET, AND TO"
- 					DB " EVERYONE AT 2600 --------"
- 					DB " VIRUS TESTED ON WIN XP --------"
- 					DB " FEEL FREE TO REVERSE ENGINEER --------"
+ 					DB " -------- SHOUT OUT TO ASSEMBLY CODERS EVERYWHERE!"
+ 					DB " -------- USE THE VIRUS WISELY. -------- "
+ 					DB "BATCH FILE WILL INFECT ENTIRE HARD DRIVE. --------"
 
  				;	DB " CODE BY ZORKE --------------------------"
  				;	DB "---------------------- FEEL FREE TO USE  "
