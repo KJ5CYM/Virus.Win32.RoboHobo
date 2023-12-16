@@ -4,7 +4,7 @@ Now here is a reverse engineering challenge for you!
 
 Meet my stealthy virus. His name is RoboHobo. I named him after myself!
 
-This virus was created on and for Windows XP, but it works on Windows 7 and Windows 10, however it will be deleted by Windows Defender.
+This virus was created on and for Windows XP, but it works on Windows 7 and Windows 10. It will be deleted by Windows Defender, however.
 
 This is a virus in the truest, yet most basic sense of the word. It's not a worm or trivial trojan or one of those stupid jokes that people call a virus these days. It's just a run of the mill file infector that xor encrypts the virus body, infects an exe, then decrypts and executes when the target is run. It is non-destructive unless you allow it to infect a critical system executable. The infection payload consists of a silly message and the virus itself.
 
