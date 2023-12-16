@@ -25,6 +25,8 @@ Running the batch file will overwrite the infected executables in the test folde
 ;                Based off Stoned and Joshua viruses, and some shellcode injectors.         ;
 ; ==========================================================================================;
 ```
+## Demo:
+![demo](https://github.com/elr0b0h0b0/Virus.Win32.r0b0h0b0/blob/main/demo.gif "demo")
 ![virustotal](https://github.com/elr0b0h0b0/Virus.Win32.r0b0h0b0/blob/main/r0b0h0b0_VirusTotal.png "virustotal")
 
 Interstingly, Windows Defender on Windows 10 thinks it is a trojan, which it is not. It's just a virus, and it has no networking capabilities. If you want to play with it on Windows 10/11, you'll have to go to Windows Defender and "Allow Threat." When you're done, you should re-enable Windows Defender.
