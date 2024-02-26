@@ -1,14 +1,12 @@
 # Virus.Win32.RoboHobo v5.6
 
-Now here is a reverse engineering challenge for you!
-
-Meet my stealthy virus. His name is RoboHobo. I named him after myself!
+Meet R0B0H0B0, my modern-ish computer virus.
 
 This virus was created on and for Windows XP, but it works on Windows 7 and Windows 10. It will be deleted by Windows Defender, however.
 
-This is a virus in the truest, yet most basic sense of the word. It's not a worm or trivial trojan or one of those stupid jokes that people call a virus these days. It's just a run of the mill file infector that xor encrypts the virus body, infects an exe, then decrypts and executes when the target is run. It is non-destructive unless you allow it to infect a critical system executable. The infection payload consists of a silly message and the virus itself.
+This is a virus in the truest, yet most basic sense of the word. It's not a worm or trivial trojan or one of those stupid jokes that people call a virus these days. It's just a run of the mill file infector that xor encrypts the virus body, finds and infects EXE files in the current directory, then decrypts and executes when the infected PE is run. It is non-destructive unless you allow it to infect a critical system executable. The infection payload consists of a silly message and the virus itself.
 
-Test it on the exe binaries in the test folder and see if you can learn something from it!
+Test it on the exe binaries in the test folder, disassemble it, use it as inspiration, just see if you can learn something from it!
 
 Running the batch file will overwrite the infected executables in the test folder with clean copies, so that you can keep testing.
 
@@ -25,6 +23,7 @@ Running the batch file will overwrite the infected executables in the test folde
 ;                Based off Stoned and Joshua viruses, and some shellcode injectors.         ;
 ; ==========================================================================================;
 ```
+
 ## Demo:
 ![demo](https://github.com/elr0b0h0b0/Virus.Win32.r0b0h0b0/blob/main/demo.gif "demo")
 ![virustotal](https://github.com/elr0b0h0b0/Virus.Win32.r0b0h0b0/blob/main/r0b0h0b0_VirusTotal.png "virustotal")
