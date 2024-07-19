@@ -1,6 +1,6 @@
 # Virus.Win32.RoboHobo v5.6
 
-Meet R0B0H0B0, my modern-ish computer virus.
+Meet Robohobo, my modern-ish computer virus.
 
 This virus was created on and for Windows XP, but it works on Windows 7 and Windows 10. It will be deleted by Windows Defender, however.
 
